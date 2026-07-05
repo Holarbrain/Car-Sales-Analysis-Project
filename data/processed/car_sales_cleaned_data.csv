@@ -1,0 +1,151 @@
+model,brand,price,units_sold,region,fuel_type,sale_date,delivery_date,dealer,color,transmission
+Sedan X,EcoRide,22829,10,Central,Petrol,2024-05-22,2024-05-24,AutoHub,Green,Manual
+SUV A,Speedline,30879,8,Central,Electric,2024-01-08,2024-01-16,City Autos,Red,Manual
+Pickup Q,DriveMax,43610,6,Central,Hybrid,2024-01-15,2024-01-25,Prime Motors,Blue,Manual
+SUV A,DriveMax,27826,10,East,Hybrid,2024-05-25,2024-06-08,AutoHub,Silver,Automatic
+Sedan X,EcoRide,23497,5,Central,Electric,2024-05-14,2024-05-22,City Autos,Blue,Automatic
+Sedan X,EcoRide,22804,4,Central,Hybrid,2024-06-16,2024-06-29,AutoHub,Green,Automatic
+Van L,UrbanMove,49812,4,South,Electric,2024-02-14,2024-02-16,AutoHub,White,Manual
+Pickup Q,DriveMax,44462,5,West,Electric,2024-03-19,2024-03-28,AutoHub,Red,Automatic
+Hatchback Z,EcoRide,40320,19,South,Hybrid,2024-02-22,2024-03-03,Prime Motors,White,Automatic
+SUV A,EcoRide,24197,8,North,Electric,2024-04-09,2024-04-12,AutoHub,Red,Automatic
+Crossover C,UrbanMove,61019,18,West,Diesel,2024-06-25,2024-07-01,Prime Motors,Silver,Manual
+Crossover C,EcoRide,56275,2,South,Hybrid,2024-03-26,2024-04-01,Highway Cars,Red,Automatic
+Hatchback Z,DriveMax,32809,20,Central,Electric,2024-03-11,2024-03-20,DriveWorld,Silver,Automatic
+SUV A,Speedline,26743,20,North,Petrol,2024-01-17,2024-01-22,AutoHub,Red,Manual
+SUV A,EcoRide,24168,8,Central,Electric,2024-05-06,2024-05-07,Highway Cars,Silver,Manual
+Coupe GT,Speedline,33296,16,Central,Hybrid,2024-01-31,2024-02-04,Highway Cars,Red,Automatic
+Pickup Q,DriveMax,41951,19,North,Hybrid,2024-02-03,2024-02-07,Prime Motors,Green,Automatic
+Coupe GT,DriveMax,30476,3,South,Electric,2024-01-25,2024-02-07,AutoHub,Black,Automatic
+Pickup Q,EcoRide,43530,7,Central,Electric,2024-06-16,2024-06-21,AutoHub,White,Automatic
+Crossover C,Speedline,58278,15,Central,Diesel,2024-04-28,2024-05-02,DriveWorld,White,Automatic
+Hatchback Z,Autostar,36282,12,North,Hybrid,2024-05-26,2024-05-29,Prime Motors,Black,Manual
+SUV A,DriveMax,28828,6,Central,Petrol,2024-03-18,2024-03-19,AutoHub,Blue,Automatic
+Pickup Q,Speedline,44753,3,East,Petrol,2024-02-25,2024-02-26,City Autos,White,Manual
+Sedan X,Speedline,17891,4,North,Petrol,2024-03-08,2024-03-16,Highway Cars,White,Manual
+Van L,DriveMax,50397,9,West,Hybrid,2024-04-27,2024-05-08,Prime Motors,Green,Manual
+Crossover C,EcoRide,58709,15,Central,Petrol,2024-04-17,2024-04-30,Prime Motors,Silver,Automatic
+SUV A,Autostar,30474,12,Central,Diesel,2024-01-17,2024-01-21,AutoHub,White,Manual
+SUV A,EcoRide,29578,8,Central,Petrol,2024-06-27,2024-06-30,AutoHub,Red,Automatic
+Van L,DriveMax,51267,16,West,Diesel,2024-05-27,2024-05-31,Highway Cars,White,Manual
+Coupe GT,Autostar,34056,9,North,Petrol,2024-06-06,2024-06-14,City Autos,White,Automatic
+Hatchback Z,EcoRide,36538,9,East,Electric,2024-04-25,2024-04-29,Prime Motors,White,Automatic
+Coupe GT,EcoRide,29787,2,West,Hybrid,2024-02-22,2024-03-04,City Autos,Red,Manual
+Crossover C,Autostar,61277,16,North,Electric,2024-03-09,2024-03-13,AutoHub,Silver,Manual
+Sedan X,DriveMax,18200,6,East,Petrol,2024-02-23,2024-03-03,DriveWorld,Black,Automatic
+Convertible V,DriveMax,49405,14,East,Diesel,2024-03-22,2024-04-03,Prime Motors,Silver,Manual
+Sedan X,EcoRide,22666,16,East,Diesel,2024-05-16,2024-05-17,AutoHub,Blue,Manual
+Coupe GT,Speedline,29045,14,Central,Diesel,2024-05-27,2024-05-30,City Autos,Black,Manual
+Van L,EcoRide,51283,1,South,Hybrid,2024-03-11,2024-03-14,AutoHub,Blue,Automatic
+Pickup Q,EcoRide,43970,16,Central,Petrol,2024-01-07,2024-01-19,AutoHub,Green,Manual
+SUV A,Autostar,30564,14,West,Electric,2024-06-14,2024-06-15,City Autos,White,Automatic
+SUV A,EcoRide,23503,6,Central,Diesel,2024-06-26,2024-06-29,Prime Motors,Green,Manual
+Coupe GT,EcoRide,33586,9,West,Electric,2024-01-11,2024-01-18,AutoHub,Black,Automatic
+Sedan X,Speedline,25319,12,East,Diesel,2024-01-05,2024-01-18,DriveWorld,Black,Automatic
+Pickup Q,DriveMax,38841,14,East,Hybrid,2024-01-03,2024-01-17,AutoHub,Red,Manual
+Convertible V,Speedline,55655,16,East,Diesel,2024-04-17,2024-04-24,Prime Motors,Blue,Automatic
+Convertible V,UrbanMove,50123,15,West,Diesel,2024-04-15,2024-04-28,Prime Motors,Silver,Manual
+Convertible V,EcoRide,54532,19,East,Diesel,2024-04-24,2024-05-04,AutoHub,Green,Automatic
+SUV A,EcoRide,31867,9,East,Electric,2024-01-28,2024-02-06,AutoHub,Green,Automatic
+Crossover C,Autostar,58495,1,Central,Petrol,2024-02-14,2024-02-26,DriveWorld,Silver,Automatic
+Sedan X,Speedline,19392,7,North,Diesel,2024-02-14,2024-02-18,AutoHub,White,Manual
+Hatchback Z,Autostar,35641,5,East,Diesel,2024-06-07,2024-06-17,Prime Motors,Black,Manual
+Sedan X,Speedline,25040,1,West,Diesel,2024-05-03,2024-05-08,Highway Cars,Black,Manual
+Coupe GT,Speedline,30838,9,Central,Petrol,2024-02-09,2024-02-18,City Autos,Silver,Manual
+Convertible V,Speedline,51681,14,North,Diesel,2024-05-29,2024-06-11,City Autos,Silver,Manual
+Crossover C,Autostar,55333,9,South,Electric,2024-01-30,2024-02-10,Highway Cars,Red,Manual
+Crossover C,DriveMax,58280,5,Central,Petrol,2024-05-27,2024-06-03,DriveWorld,White,Manual
+Crossover C,UrbanMove,55823,8,South,Diesel,2024-04-20,2024-04-21,Prime Motors,Green,Manual
+Van L,Autostar,43651,15,North,Electric,2024-05-17,2024-05-18,AutoHub,Red,Manual
+Sedan X,Autostar,22396,16,West,Petrol,2024-05-05,2024-05-16,City Autos,White,Automatic
+Pickup Q,EcoRide,44592,19,East,Electric,2024-01-16,2024-01-19,Prime Motors,Green,Manual
+Van L,Speedline,45114,4,Central,Hybrid,2024-01-24,2024-02-07,City Autos,Black,Manual
+SUV A,Autostar,28759,10,North,Hybrid,2024-05-17,2024-05-18,City Autos,Blue,Manual
+Convertible V,Speedline,49478,15,South,Electric,2024-06-06,2024-06-14,Prime Motors,Blue,Manual
+Sedan X,UrbanMove,23459,1,West,Diesel,2024-06-11,2024-06-17,Prime Motors,Green,Automatic
+Convertible V,EcoRide,53937,20,Central,Hybrid,2024-01-31,2024-02-04,City Autos,Green,Manual
+Convertible V,Autostar,48736,8,North,Electric,2024-04-20,2024-04-30,AutoHub,Black,Manual
+Coupe GT,DriveMax,32343,18,Central,Electric,2024-04-30,2024-05-14,Highway Cars,Silver,Manual
+Sedan X,Speedline,26947,15,East,Petrol,2024-05-11,2024-05-21,City Autos,Red,Manual
+Sedan X,Autostar,18715,6,West,Diesel,2024-03-02,2024-03-05,Prime Motors,Red,Manual
+Hatchback Z,UrbanMove,39081,5,North,Petrol,2024-06-14,2024-06-24,City Autos,Red,Automatic
+Van L,Autostar,46125,5,East,Diesel,2024-04-27,2024-05-10,Highway Cars,Red,Manual
+Crossover C,Speedline,56038,9,Central,Electric,2024-05-01,2024-05-07,City Autos,White,Automatic
+SUV A,EcoRide,22712,12,West,Petrol,2024-06-03,2024-06-16,Prime Motors,Green,Manual
+Convertible V,DriveMax,47859,6,North,Diesel,2024-02-26,2024-02-28,DriveWorld,Silver,Manual
+Pickup Q,Autostar,46401,10,East,Electric,2024-03-24,2024-04-03,City Autos,Black,Automatic
+Pickup Q,UrbanMove,38244,9,South,Diesel,2024-01-26,2024-01-28,AutoHub,Silver,Automatic
+Pickup Q,Autostar,40291,8,South,Diesel,2024-05-08,2024-05-22,Highway Cars,Silver,Automatic
+Coupe GT,Autostar,34260,18,East,Diesel,2024-04-22,2024-04-29,City Autos,Blue,Manual
+Convertible V,DriveMax,51482,13,West,Petrol,2024-02-23,2024-02-24,Highway Cars,Green,Manual
+Van L,EcoRide,50891,11,East,Electric,2024-05-09,2024-05-10,AutoHub,White,Automatic
+Crossover C,DriveMax,57557,17,East,Petrol,2024-06-22,2024-07-02,City Autos,Red,Automatic
+Convertible V,EcoRide,49276,1,West,Hybrid,2024-06-16,2024-06-20,AutoHub,White,Automatic
+Coupe GT,EcoRide,28004,8,East,Petrol,2024-03-25,2024-04-03,Prime Motors,Silver,Automatic
+Hatchback Z,Autostar,37152,4,Central,Petrol,2024-03-22,2024-04-04,Highway Cars,Black,Automatic
+Pickup Q,DriveMax,44253,11,West,Diesel,2024-02-03,2024-02-05,City Autos,Green,Automatic
+Crossover C,Speedline,61204,2,West,Diesel,2024-06-28,2024-07-01,Prime Motors,Black,Manual
+Sedan X,Autostar,18903,3,South,Electric,2024-05-03,2024-05-04,DriveWorld,Red,Manual
+Sedan X,Speedline,25339,4,Central,Diesel,2024-06-06,2024-06-19,City Autos,Black,Manual
+SUV A,Speedline,27268,18,Central,Hybrid,2024-04-25,2024-05-03,Highway Cars,Green,Automatic
+SUV A,UrbanMove,24985,10,South,Diesel,2024-04-09,2024-04-12,DriveWorld,Silver,Manual
+Hatchback Z,UrbanMove,40093,14,East,Diesel,2024-02-05,2024-02-15,Highway Cars,Black,Automatic
+Pickup Q,UrbanMove,46023,7,South,Electric,2024-04-30,2024-05-11,DriveWorld,White,Automatic
+Crossover C,Autostar,57333,4,North,Electric,2024-03-06,2024-03-16,DriveWorld,Green,Automatic
+SUV A,DriveMax,23390,11,South,Electric,2024-01-18,2024-01-23,Highway Cars,Black,Automatic
+Convertible V,Speedline,56358,3,South,Electric,2024-02-03,2024-02-17,Highway Cars,Green,Manual
+SUV A,Autostar,25872,7,East,Petrol,2024-05-04,2024-05-14,City Autos,Blue,Automatic
+Convertible V,DriveMax,52164,19,North,Hybrid,2024-02-02,2024-02-15,City Autos,Blue,Manual
+SUV A,DriveMax,24075,1,Central,Electric,2024-03-23,2024-03-29,AutoHub,Green,Manual
+SUV A,EcoRide,23058,1,South,Hybrid,2024-03-05,2024-03-12,Prime Motors,White,Manual
+Sedan X,Speedline,20089,10,East,Hybrid,2024-02-28,2024-03-13,DriveWorld,Silver,Manual
+Crossover C,UrbanMove,53522,14,South,Electric,2024-05-13,2024-05-25,Prime Motors,Blue,Automatic
+Pickup Q,EcoRide,42133,8,East,Electric,2024-05-06,2024-05-10,Prime Motors,Black,Automatic
+Sedan X,Speedline,18177,19,North,Diesel,2024-05-20,2024-06-01,Prime Motors,Red,Manual
+Crossover C,Autostar,61403,12,East,Petrol,2024-06-20,2024-07-02,DriveWorld,Blue,Automatic
+Hatchback Z,DriveMax,39247,6,South,Petrol,2024-03-28,2024-04-01,DriveWorld,Blue,Manual
+Convertible V,Autostar,54048,16,North,Diesel,2024-05-19,2024-05-25,Prime Motors,Red,Automatic
+Crossover C,Speedline,57462,20,East,Hybrid,2024-06-15,2024-06-18,City Autos,White,Manual
+Convertible V,DriveMax,56542,15,West,Petrol,2024-06-06,2024-06-08,Prime Motors,Blue,Automatic
+Coupe GT,EcoRide,32492,10,South,Diesel,2024-02-16,2024-02-23,AutoHub,Red,Automatic
+Crossover C,DriveMax,60197,13,Central,Petrol,2024-01-11,2024-01-17,City Autos,Blue,Automatic
+SUV A,UrbanMove,29956,1,West,Diesel,2024-01-20,2024-01-30,Prime Motors,Red,Manual
+SUV A,Autostar,28838,6,South,Electric,2024-04-25,2024-04-30,DriveWorld,Green,Manual
+Hatchback Z,UrbanMove,41611,8,West,Diesel,2024-02-28,2024-03-10,City Autos,Silver,Automatic
+SUV A,UrbanMove,23820,1,East,Hybrid,2024-05-25,2024-06-02,AutoHub,Green,Manual
+Crossover C,Autostar,60283,17,Central,Electric,2024-04-02,2024-04-07,Prime Motors,Blue,Manual
+Van L,EcoRide,48242,15,East,Hybrid,2024-02-15,2024-02-19,AutoHub,Green,Manual
+Hatchback Z,Speedline,40008,4,North,Petrol,2024-02-14,2024-02-20,AutoHub,Red,Manual
+Sedan X,EcoRide,22434,8,West,Petrol,2024-06-18,2024-07-02,DriveWorld,Blue,Manual
+Crossover C,EcoRide,55108,17,West,Electric,2024-06-15,2024-06-22,Highway Cars,Silver,Manual
+Van L,EcoRide,51650,5,South,Petrol,2024-04-03,2024-04-12,DriveWorld,Red,Automatic
+Pickup Q,Autostar,42621,4,Central,Hybrid,2024-03-21,2024-03-31,Highway Cars,Red,Manual
+Hatchback Z,Autostar,37939,7,Central,Diesel,2024-06-28,2024-07-04,City Autos,Red,Manual
+Sedan X,Speedline,22519,16,South,Diesel,2024-05-28,2024-06-02,AutoHub,White,Manual
+SUV A,Autostar,23424,3,East,Petrol,2024-01-06,2024-01-15,AutoHub,White,Manual
+Convertible V,EcoRide,50377,1,Central,Petrol,2024-01-14,2024-01-19,DriveWorld,Green,Manual
+Crossover C,Speedline,58497,15,West,Electric,2024-06-14,2024-06-21,Highway Cars,Green,Manual
+Crossover C,DriveMax,55773,5,Central,Hybrid,2024-03-14,2024-03-19,DriveWorld,Red,Manual
+Van L,DriveMax,50187,15,West,Petrol,2024-03-04,2024-03-08,Prime Motors,Red,Automatic
+SUV A,UrbanMove,23674,7,West,Electric,2024-01-21,2024-01-25,City Autos,Black,Manual
+Convertible V,UrbanMove,55211,8,West,Diesel,2024-02-23,2024-02-28,City Autos,Black,Manual
+Pickup Q,DriveMax,46225,6,West,Hybrid,2024-04-23,2024-05-05,AutoHub,Green,Automatic
+Sedan X,DriveMax,18211,11,West,Petrol,2024-02-17,2024-02-28,Highway Cars,Black,Automatic
+SUV A,DriveMax,24670,17,East,Petrol,2024-01-31,2024-02-10,Highway Cars,Blue,Automatic
+Van L,EcoRide,47876,13,Central,Electric,2024-05-03,2024-05-16,City Autos,Green,Manual
+Crossover C,Autostar,54825,2,South,Electric,2024-01-31,2024-02-03,Prime Motors,Silver,Automatic
+Coupe GT,DriveMax,29897,12,West,Hybrid,2024-06-10,2024-06-11,Highway Cars,Red,Automatic
+Crossover C,UrbanMove,61361,14,North,Hybrid,2024-05-21,2024-05-22,Prime Motors,Green,Manual
+SUV A,Autostar,26403,20,South,Electric,2024-04-30,2024-05-01,Highway Cars,Red,Automatic
+Hatchback Z,Autostar,38612,19,West,Electric,2024-06-12,2024-06-15,Highway Cars,Silver,Manual
+Van L,EcoRide,43041,3,South,Electric,2024-06-15,2024-06-17,Prime Motors,Black,Automatic
+SUV A,UrbanMove,26352,13,West,Diesel,2024-06-15,2024-06-28,AutoHub,Silver,Manual
+Hatchback Z,UrbanMove,34597,3,South,Electric,2024-03-30,2024-04-12,DriveWorld,Black,Automatic
+Pickup Q,Speedline,41498,2,West,Petrol,2024-04-07,2024-04-17,DriveWorld,Silver,Automatic
+Crossover C,Speedline,61996,13,South,Diesel,2024-01-12,2024-01-16,DriveWorld,Blue,Automatic
+Van L,DriveMax,50096,17,North,Electric,2024-05-05,2024-05-12,AutoHub,Black,Manual
+Sedan X,Speedline,19674,4,Central,Electric,2024-02-22,2024-03-05,Highway Cars,Silver,Manual
+Convertible V,Speedline,51754,17,Central,Diesel,2024-04-07,2024-04-14,City Autos,Green,Automatic
+Convertible V,Speedline,55462,18,West,Electric,2024-06-15,2024-06-29,City Autos,Black,Manual
+Coupe GT,EcoRide,29588,8,Central,Hybrid,2024-01-07,2024-01-21,City Autos,White,Manual
+Coupe GT,UrbanMove,34686,4,South,Hybrid,2024-05-15,2024-05-19,AutoHub,White,Manual
