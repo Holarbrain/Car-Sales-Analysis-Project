@@ -300,7 +300,7 @@ Central ($14.54M) and East ($13.87M) lead regional revenue, while South trails a
 Data & Analytics Professional
 
 - 💼 [holarbrain.github.io](https://holarbrain.github.io)
-- 🔗 [github.com/holarbrain](https://github.com/holarbrain)
+- 🔗 [Email](ismailabdulrazaq1408@gmail.com)
 
 ---
 
