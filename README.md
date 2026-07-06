@@ -99,6 +99,7 @@ Car_Sales_Analytics_Project/
 │   
 │
 ├── reports/
+    ├── car_sales_executive_presentation.ppt         # Original, unmodified source data
 │   └── full_project_report.docx    # Full written report 
 │
 └── README.md                       # You are here
