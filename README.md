@@ -6,13 +6,10 @@
 ## ⚙️ Project Type Flags
 
 - [x] Exploratory Data Analysis (EDA)
-- [ ] SQL Analysis / Querying
 - [x] Dashboard / Data Visualization
-- [ ] Data Pipeline / ETL
-- [ ] Predictive Modelling / Machine Learning
 - [x] Data Cleaning / Wrangling
 - [x] End-to-End (multiple of the above)
-- [ ] Other: ___________
+
 
 ---
 
@@ -99,8 +96,8 @@ Car_Sales_Analytics_Project/
 │   
 │
 ├── reports/
-    ├── car_sales_executive_presentation.ppt         # Original, unmodified source data
-│   └── full_project_report.docx    # Full written report 
+│   ├── car_sales_executive_presentation.ppt         # ppt presentation report
+│   └── car_sales_analysis_full_project_report.docx    # Full written report 
 │
 └── README.md                       # You are here
 ```
