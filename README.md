@@ -91,15 +91,15 @@ Car_Sales_Analytics_Project/
 │   ├── car_sales_data.csv          # Original, unmodified source data
 │   └── car_sales_enhanced.csv      # Python-processed dataset (with derived fields)
 │
-├── python/
+├── notebook/
 │   └── car_sales_data_analysis.ipynb   # Google Colab notebook — full analysis workflow
 │
 ├── powerbi/
-│   ├── car_sales_dashboard.pbix    # Power BI dashboard file (3 pages)
-│   └── assets/                     # Theme files, icons
+│    └──  car_sales_dashboard.pbix    # Power BI dashboard file (3 pages)
+│   
 │
 ├── reports/
-│   └── full_project_report.docx    # Full written report (this README is derived from it)
+│   └── full_project_report.docx    # Full written report 
 │
 └── README.md                       # You are here
 ```
